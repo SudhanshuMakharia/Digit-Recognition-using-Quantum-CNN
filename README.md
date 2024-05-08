@@ -24,4 +24,4 @@ This project implements a hybrid quantum convolutional neural network (CNN) for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/digit-recognition-hybrid-quantum-cnn.git
+git clone https://github.com/SudhanshuMakharia/digit-recognition-quantum-cnn.git
