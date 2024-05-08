@@ -18,6 +18,7 @@ This project implements a hybrid quantum convolutional neural network (CNN) for 
 - PennyLane
 - Matplotlib
 - NumPy
+- Sklearn
 
 ## Usage
 
